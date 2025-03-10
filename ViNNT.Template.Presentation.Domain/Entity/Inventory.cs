@@ -1,7 +1,6 @@
 ﻿using ViNNT.Template.Presentation.Domain.Common;
-using ViNNT.Template.Presentation.Domain.Entity;
 
-namespace ViNNT.Template.Presentation.Infrastructure;
+namespace ViNNT.Template.Presentation.Domain.Entity;
 
 public class Inventory : BaseAuditableEntity
 {
